@@ -86,6 +86,15 @@ BMC-N/T/AT 95% predictive interval coverage is approximately nominal overall, bu
 
 EUCAST **v16.1 (2026)** scenarios are taken from NB53 and include indication-specific restrictions. Because the original dataset lacks infection indication, threshold-defined observations do **not** necessarily establish categorical clinical resistance in every context. In particular, TMP–SMX component-unit verification and piperacillin–tazobactam technical uncertainty are explicitly noted in NB53–55. These analyses are research results, not clinical decision support or a replacement for laboratory MIC testing.
 
+## License and Data Provenance
+
+The MIT License (`LICENSE`) applies to the original software and Jupyter notebook code authored for this repository.
+
+The license does not grant rights to the underlying NCBI-derived MIC data or other third-party materials. These data retain their original provenance and any applicable third-party rights.
+
+For data sources, attribution and redistribution considerations, see [Data and License](docs/DATA_AND_LICENSE.md).
+
+
 ## Citation
 
 If referring to the underlying unchanged Model C predictor, cite the preceding publication:

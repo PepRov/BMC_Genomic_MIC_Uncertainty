@@ -1,0 +1,25 @@
+{
+  "source_notebook": "55_BMC_Probability_Training_Only_Recalibration_v0.1",
+  "source_data_filename": "55_BMCN_Probabilities_OuterTest_Original_Vs_Recalibrated.csv.gz",
+  "source_data_sha256": "cee085f109aad69904ebb9a5c003e0441b012c6ac7e43329244d86562b269afb",
+  "input_mode": "60 verified aggregated bins embedded, no individual records or paths",
+  "summary_source_sha256": "0efb6a02b80a3d50f250b18f62e52dbf0ba37f3b51e65e815b9e8c99b48fdfa9",
+  "manuscript_figure": "Figure 4, BMC manuscript v0.9",
+  "n_heldout_total": 27315,
+  "panel_counts": {
+    "all_18_descriptive": 27315,
+    "cefepime": 1192,
+    "gentamicin": 5195
+  },
+  "n_bins_per_group_and_method": 10,
+  "min_bin_n_for_plot": 10,
+  "wilson_z": 1.959963984540054,
+  "pooled_observed_exceedances": 4643,
+  "raw_probabilities": "Not embedded in the public figure notebook. See the original NB55 dataset and Notebook 55.",
+  "outcome": "observed MIC > scenario-specific EUCAST resistance cutoff",
+  "figure_outputs": [
+    "Figure04_BMCN_Probability_Calibration_v0.5.png",
+    "Figure04_BMCN_Probability_Calibration_v0.5.pdf"
+  ],
+  "reliability_bins_output": "Figure04_BMCN_Probability_Calibration_v0.5_Reliability_Bins.csv"
+}
